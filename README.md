@@ -19,9 +19,7 @@ I am an innovative Computer Engineering student at Chulalongkorn University with
 `Git` | `Figma` | `UI/UX Design` | `Agile/Scrum`
 
 ### 📂 Featured Projects
-* **[Artmission](#)**: Co-developing a full-stack art commission platform built as a monorepo. Engineered a secure Escrow payment system and a centralized database to effectively categorize artists. *(Next.js, Go)*
-* **[Onemai](#)**: Led the UI/UX design and frontend development for a prototype community platform supporting individuals in recovery. Pitched as the main speaker and secured a top 7 finalist spot out of 92 teams.
-* **[SureShop](#)**: Spearheaded the product ideation and system logic for a zero-fraud proxy-shopping platform featuring KYC verification and escrow payments. 
+* **[Artmission](https://github.com/AiSiriRak/Artmission)**: Co-developing a full-stack art commission platform built as a monorepo. Engineered a secure Escrow payment system and a centralized database to effectively categorize artists. *(Next.js, Go)*
 
 ### 📫 Let's Connect!
 - **Email:** [pumwaree.pipiths@gmail.com](mailto:pumwaree.pipiths@gmail.com)
