@@ -25,7 +25,7 @@ I am an innovative Computer Engineering student at Chulalongkorn University with
 
 ### 📫 Let's Connect!
 - **Email:** [pumwaree.pipiths@gmail.com](mailto:pumwaree.pipiths@gmail.com)
-- **LinkedIn:** linkedin.com/in/pumwaree-pipithsuksunt-7a264642b
+- **LinkedIn:** [linkedin.com/in/pumwaree-pipithsuksunt-7a264642b]
 
 ---
 ⭐️ *From intuitive UI designs to robust backend logic, I aim to build applications that move things forward.*
